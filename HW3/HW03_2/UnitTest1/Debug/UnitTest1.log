@@ -1,0 +1,9 @@
+﻿  ReadInt.cpp
+\\cs1\students\2019\tle19\cs273-2\hw3\hw03_2\unittest1\readint.cpp(52): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  Compiling...
+  unittest1.cpp
+  Generating Code...
+     Creating library \\cs1\students\2019\tle19\CS273-2\HW3\HW03_2\Debug\UnitTest1.lib and object \\cs1\students\2019\tle19\CS273-2\HW3\HW03_2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> \\cs1\students\2019\tle19\CS273-2\HW3\HW03_2\Debug\UnitTest1.dll
+  UnitTest1.vcxproj -> \\cs1\students\2019\tle19\CS273-2\HW3\HW03_2\Debug\UnitTest1.pdb (Full PDB)
