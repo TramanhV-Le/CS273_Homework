@@ -1,0 +1,5 @@
+﻿  Banking_Application.cpp
+c:\users\tle19\desktop\pr5_banking\pr4_banking\account.h(35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tle19\desktop\pr5_banking\pr4_banking\account.h(36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PR4_Banking.vcxproj -> C:\Users\tle19\Desktop\PR5_Banking\Debug\PR4_Banking.exe
+  PR4_Banking.vcxproj -> C:\Users\tle19\Desktop\PR5_Banking\Debug\PR4_Banking.pdb (Full PDB)
