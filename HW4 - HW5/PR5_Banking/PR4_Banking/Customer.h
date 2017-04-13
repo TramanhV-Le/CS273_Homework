@@ -1,3 +1,13 @@
+/****************
+
+* Name: VINA LE
+
+* Project: HW5
+
+* Date last updated: 4/13/17 -> Had to add this header
+COMPLETED: 4/07/17
+
+*****************/
 #ifndef CUSTOMER_H_
 #define CUSTOMER_H_
 #include <iostream>
